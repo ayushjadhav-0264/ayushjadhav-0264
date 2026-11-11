@@ -26,3 +26,22 @@ Building practical projects and preparing for software engineering opportunities
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushjadhav-0264&show_icons=true&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjadhav-0264&layout=compact&theme=transparent)
+
+## 🛠️ Skills & Technologies
+
+### Programming
+- C (Learning)
+
+### Web Development
+- HTML
+- CSS
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+### Currently Exploring
+- JavaScript
+- Data Structures and Algorithms
+- SQL
