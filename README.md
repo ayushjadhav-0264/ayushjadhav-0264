@@ -20,3 +20,9 @@ Building practical projects and preparing for software engineering opportunities
 📫 Connect with me:
 - LinkedIn: Add your LinkedIn profile URL
 - GitHub: You are already here!
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushjadhav-0264&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjadhav-0264&layout=compact&theme=transparent)
